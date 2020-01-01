@@ -1,0 +1,37 @@
+
+/*
+            .navbar-brand {
+            padding: 0px;
+            }
+            .navbar-brand>img {
+            height: 100%;
+            padding: 3px;
+            width: auto;
+            }
+*/
+.title-page-h1{
+    font-size: 28px;
+}
+
+#tags a{
+    color:#a0a0a0;
+}
+#gender-select{
+    max-width: 300px;
+    display: inline;
+}
+.generator{
+    background-color: #f5f5f5;
+    border: #dddddd 1px solid;
+    padding: 10px;
+}
+#gen-result{
+
+border: #dddddd 1px solid;
+}
+#footer{
+    text-align: center;
+}
+.header-title{
+    text-transform: uppercase;
+}
